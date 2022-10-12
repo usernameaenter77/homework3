@@ -3,7 +3,8 @@ body {
 }
 .img1 {
   width: 350px;
-  margin: 20px 50px;
+  margin: 20px 550px
+;
 
       width: 350px;
     height: 350px;
@@ -19,7 +20,7 @@ body {
 
 .img2 {
   width: 350px;
-  margin: 25px 50px;
+  margin: 25px 550px;
   width: 350px;
     height: 350px;
     background-color: #eee;
@@ -31,7 +32,7 @@ body {
 
 .img3 {
   width: 350px;
-  margin: 20px 50px;
+  margin: 20px 550px;
 
     width: 350px;
     height: 350px;
@@ -47,18 +48,18 @@ body {
     
   font-family: tahoma;
   font-size: 15px;
-  margin: 12px;
+  margin: 0 500px;
   
 }
 .text2 {
   font-family: tahoma;
   font-size: 15px;
-  margin: 12px;
+  margin: 0 550px;
 }
 .text3 {
   font-family: tahoma;
   font-size: 15px;
-  margin: 0 12px;
+  margin: 0 500px;
 }
 .cn {
   font-family: tahoma;
